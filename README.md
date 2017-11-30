@@ -1,2 +1,2 @@
-# Computer Science 178: Topics in Software Technology
+# Computer Science 178.1: Introduction to Multimedia
 Source files
